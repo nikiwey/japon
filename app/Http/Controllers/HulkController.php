@@ -11,7 +11,7 @@ class HulkController extends Controller {
 
   public function ver($num) {
 
-    echo "llego al controllador y se imprime ", $num;
+    echo "Proceso exitoso para el controlador", $num;
     //return view('vhulk')->with('var_hulk', 'Llego al controlador');
 
   }
