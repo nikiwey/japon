@@ -3,6 +3,6 @@
 
 @section('raton')
 
-  <h1 class="alert alert-success">Se imprimio el tercer estilo sin problemas</h1>
+  <h1 class="alert alert-success">Cuarto cambio</h1>
 
 @endsection
