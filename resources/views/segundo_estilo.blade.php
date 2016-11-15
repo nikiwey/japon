@@ -3,6 +3,6 @@
 
 @section('casa')
 
-  <h3 class="alert alert-danger">Alguien pregunto por el segundo estilo</h3>
+  <h3 class="alert alert-danger">Tambien cambio</h3>
 
 @endsection

@@ -3,6 +3,6 @@
 
 @section('nemo')
 
-  <label>Boton para enviar</label> <input type="submit" class="btn btn-primary" value="Enviar">
+  <label>Otro boton de ejemplo</label> <input type="submit" class="btn btn-primary" value="Enviar">
 
 @endsection
